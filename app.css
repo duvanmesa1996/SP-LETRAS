@@ -1,5 +1,5 @@
 body{
-  background-color: gray;
+  background-color: rgb(35, 21, 56);
 }
 
 #wordSearchContainer {
@@ -16,12 +16,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f0f0f0;
+    background-color: #8f8e8e;
     cursor: pointer;
 }
 
 #wordSearchContainer div.selected {
-    background-color: #add8e6;
+    background-color: #6eceee;
 }
 .selected {
     background-color: #90ee90; 
@@ -34,7 +34,7 @@ body{
     margin: 20px auto;
     max-width: 90vw;
     padding: 10px;
-    background-color: #f7f7f7;
+    background-color: #a7a5a5;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     display: flex;
