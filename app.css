@@ -55,7 +55,7 @@ body{
 }
 
 .wordsList div.found::after {
-    content: ' ✔️'; /* Añade una palomita después del texto */
+    content: ' ✔️'; /* Añade una palomita que es un emoji */
     color: green;  /* Color verde para la palomita */
 }
 
